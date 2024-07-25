@@ -29,7 +29,7 @@ The performance of each model was evaluated using Mean Squared Error (MSE) and R
 
 ### Mean Squared Error (MSE) and R² Score of Models
 
-![MSE and R² Score of Models](path/to/mse_r2_plot.png)
+![MSE and R² Score of Models](https://github.com/tildahh/UC-Berkley-MachineLearning/blob/main/M21-Ensemble-Techniques/images/mse_r2_plot.png.png)
 
 ## Feature Importance
 
@@ -39,7 +39,7 @@ The feature importance from the Decision Tree Regressor highlighted the followin
 - **EDUCATION**: Highly important, indicating education level is a key factor in wage determination.
 - **AGE**: Another crucial feature, likely correlated with experience and overall career progression.
 
-![Feature Importance](path/to/feature_importance_plot.png)
+![Feature Importance](https://github.com/tildahh/UC-Berkley-MachineLearning/blob/main/M21-Ensemble-Techniques/images/feature_importance_plot.png)
 
 ## Conclusions
 
