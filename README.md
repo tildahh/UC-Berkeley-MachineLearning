@@ -8,6 +8,8 @@
 
 ## Overview
 
+This repository showcases my learning journey through the UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence. It contains program details, key takeaways, and sample notebooks demonstrating the skills and tools I acquired during the program.
+
 The **Professional Certificate in Machine Learning and Artificial Intelligence** from UC Berkeley (ranked the #1 university in the world by Forbes) is a prestigious program developed in collaboration with the **College of Engineering** and the **Haas School of Business**. This program offers hands-on experience solving real-world technical and business challenges using cutting-edge ML/AI tools and techniques.
 
 Participants gain highly sought-after skills in:
@@ -19,36 +21,35 @@ Participants gain highly sought-after skills in:
 
 ## 📚 Program Topics
 
-### 💡 **Foundations of Machine Learning (ML) and Artificial Intelligence (AI)**  
-- Core ML/AI concepts, industry-standard workflows, and practical data science applications.  
-- Example Modules:  
+### 💡 **Foundations of Machine Learning**  
+- Core concepts and workflows, with an introduction to data analytics.  
+- Key Modules:  
   - Introduction to Machine Learning  
   - Fundamentals of Statistics and Distribution Functions  
   - Introduction to Data Analytics  
 
-### 🛠️ **ML/AI Techniques**  
-- Hands-on coding and applying ML techniques like clustering, regression, and optimization.  
-- Example Modules:  
+### 🛠️ **ML Techniques**  
+- Practical application of techniques like clustering, regression, and forecasting.  
+- Key Modules:  
   - Clustering and PCA  
   - Feature Engineering and Overfitting  
   - Time Series Analysis and Forecasting  
 
 ### 🚀 **Advanced Topics & Capstone**  
-- Advanced ML/AI concepts like **NLP**, **Deep Learning**, and **Generative AI**, applied in a capstone project.  
-- Example Modules:  
+- Exploration of NLP, Deep Learning, and Generative AI, culminating in a capstone project.  
+- Key Modules:  
   - Natural Language Processing  
   - Deep Neural Networks I & II  
-  - Introduction to Generative AI  
+  - Generative AI  
   - Capstone Project  
 
 ---
 
 ## Tools & Technologies
-
-- **Programming**: Python  
+- **Programming Languages**: Python  
 - **Data Analysis & Visualization**: Jupyter, Pandas, Seaborn, Plotly  
 - **Development Platforms**: Google Colab, Codio  
-- **Version Control**: GitHub  
+- **Version Control & Collaboration**: GitHub   
 
 
 
