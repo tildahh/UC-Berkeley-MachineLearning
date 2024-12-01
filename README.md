@@ -1,4 +1,4 @@
-# University of California, Berkeley - Professional Certificate in Machine Learning and Artificial Intelligence
+## University of California, Berkeley - Professional Certificate in Machine Learning and Artificial Intelligence
 
 ![UC Berkeley Certificate](images/UCB-Credential.png)
 
